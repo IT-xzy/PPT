@@ -1,7 +1,7 @@
 # PPT
 
 ## 技术分享小课堂集散地
-> [PPT浏览地址](https://ptteng.github.io/PPT/)
+> [PPT浏览地址](https://it-xzy.github.io/PPT/)
 
 
 ## 使用方法
